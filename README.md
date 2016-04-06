@@ -1,4 +1,4 @@
-# tuto recommandation scala
+# tuto recommendation scala
 
 scala version of recommendation chapter of "Programming Collective Intelligence" O'Reilly's book
  
